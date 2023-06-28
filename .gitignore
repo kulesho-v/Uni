@@ -1,0 +1,8 @@
+.vs
+.git
+.vsconfig
+Binaries/
+Intermediate/
+Saved/
+*.sln
+
